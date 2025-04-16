@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   <h2> Step 2: Install and Enable Internet Information Services (IIS) in Window </h2>
-  <img src="https://i.imgur.com/i9bIcLO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://www.saotn.org/posts/images/2021/04/Turn-Windows-features-on-or-off.jpg"/>
 </p>
 <p>
   Open the Start menu and search for Control Panel. Once in the Control Panel, click on Uninstall a Program under the "Programs" section. Then, on the left-hand side, select Turn Windows features on or off. In the list that appears, locate and check the box for Internet Information Services (IIS) to enable it, then click OK to apply the changes.</p>
